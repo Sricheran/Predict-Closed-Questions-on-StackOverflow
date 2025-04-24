@@ -5,7 +5,7 @@ This project uses a combination of traditional NLP techniques and transformer-ba
 ---
 
 ##  Dataset & Preprocessing
-
+Dataset: [Kaggle_Predict_Closed_Questions_on_StackOverflow](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow)
 ### Why Not Use the Full 3.3M Dataset?
 The full dataset (33L+ entries) posed computational and memory challenges, especially with class imbalance. Hence, a balanced sample of *1.4 lakh entries* (50:50 open/closed) was extracted for efficient model experimentation.
 
