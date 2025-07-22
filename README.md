@@ -121,4 +121,4 @@ Manual inspection showed word embeddings lost sentence structure. We transitione
 ## Authors
 
 - *CH SRICHERAN* – sricheran320@gmai.com
-- *ADITYA V* –
+- *ADITYA V* – adityavenkatesh16@gmail.com
